@@ -1,0 +1,176 @@
+id_uni,name_uni,training_building,age,class,required_rechnology,upgraded_from,next_updrage,hit_points,attack,melee_armor,pierce_armor,range,minimum_range,line_of_sight,reolad_time,speed,blast_radius,attack_delay,accuracy,number_projectiles,projectile_speed,garrison_capacity,population,work_rate,heal_rate,cost_wood,cost_gold,cost_food,training_time
+0,Villager,Town Center,Dark Age,Civilian,None,None,None,25 (40),3,0 (+1),0 (+2),-,-,4,2,0.8,-,0,100,-,-,-,1,-,0,,,50,25
+1,Fishing Ship,Dock,Dark Age,Fish Boat,None,None,None,60,-,0,4,-,-,5,-,1.26,-,-,-,-,-,-,1,0.28,0,75,,,40
+2,Transport Ship,Dock,Dark Age,Transport Boat,None,None,None,100,-,4,8,-,-,5,-,1.45,-,-,-,-,-,5,1,-,0,125,,,46
+3,Militia,Barracks,Dark Age,Infantry,None,None,Man-at-Arms,40,4,0,1,-,-,4,2,0.9,0,0,100,-,-,-,1,-,0,,20,60,21 (18.9)
+4,Trade Cog,Dock,Feudal Age,Trade Boat,None,None,None,80,-,0,6,-,-,6,-,1.32,-,-,-,-,-,-,1,0.3,0,100,50,,36
+5,Galley,Dock,Feudal Age,Warship,None,None,War Galley,120,6 (+1),0,6,5 (+1),-,7 (+1),3,1.43,-,0,100,1,6,-,1,-,0,90,30,,60 (54)
+6,Fire Galley,Dock,Feudal Age,Warship,None,None,Fire Ship,100,1,0,4,2.49,-,5,0.25,1.3,-,0,0,1,3,-,1,-,0,75,45,,65 (58.5)
+7,Demolition Raft,Dock,Feudal Age,Warship,None,None,Demolition Ship,45,90,0,2,-,-,6,5,1.5,2.5,0,100,-,-,-,1,-,0,75,50,,45 (40.5)
+8,Trade Cart,Market,Feudal Age,Trade Cart,None,None,None,70,-,0,0,-,-,7,-,1,-,-,-,-,-,-,1,0.23,0,100,50,,51
+9,Man-at-Arms,Barracks,Feudal Age,Infantry,Man-at-Arms,Militia,Long Swordsman,45,6 (+1),0 (+1),1 (+1),-,-,4 (+2),2,0.9,0,0,100,-,-,-,1,-,0,,20,60 (45),21 (18.9)
+10,Spearman,Barracks,Feudal Age,Infantry,None,None,Pikeman,45,3 (+1),0 (+1),0 (+1),-,-,4 (+2),3,1,0,0,100,-,-,-,1,-,0,25,,35,22 (19.8)
+11,Eagle Scout,Barracks,Feudal Age,Infantry,None,None,Eagle Warrior,50,4 (+1),0 (+1),2 (+1),-,-,5 (+3),2,1.1,-,0,100,-,-,-,1,-,0,,50,20,60 (54)
+12,Archer,Archery Range,Feudal Age,Archer,None,None,Crossbowman,30,4 (+1),0 (+1),0 (+1),4 (+1),-,6 (+1),2,0.96,-,0.35,80,1,7,-,1,-,0,25,45,,35 (31.5)
+13,Skirmisher,Archery Range,Feudal Age,Archer,None,None,Elite Skirmisher,30,2 (+1),0 (+1),3 (+1),4 (+1),1,6 (+1),3,0.96,-,0.5,90,1,7,-,1,-,0,35,,25,22 (19.8)
+14,Scout Cavalry,Stable,Feudal Age,Cavalry,None,None,Light Cavalry,45 (65),3 (+3),0 (+1),2 (+1),-,-,4 (+2),2,1.2 (1.55),0,0,100,-,-,-,1,-,0,,,80,30
+15,War Galley,Dock,Castle Age,Warship,War Galley,Galley,Galleon,135,7 (+2),0,6 (+1),6 (+2),-,8 (+2),3,1.43,-,0,100,1,6,-,1,-,0,90,30,,36 (32.4)
+16,Fire Ship,Dock,Castle Age,Warship,War Galley,Fire Galley,Fast Fire Ship,120,2,0,6 (+1),2.49,-,5,0.25,1.35,-,0,0,1,3,-,1,-,0,75,45,,36 (32.4)
+17,Demolition Ship,Dock,Castle Age,Warship,War Galley,Demolition Raft,Heavy Demolition Ship,60,110,0,3 (+1),-,-,6,5,1.6,3,0,100,-,-,-,1,-,0,75,50,,31 (27.9)
+18,Longboat,Dock,Castle Age,Warship,None,None,Elite Longboat,130,7 (+2),0,6 (+1),6 (+2),-,8 (+2),3,1.54,-,0,100,4,6,-,1,-,0,100 (85),50 (43),,25
+19,Turtle Ship,Dock,Castle Age,Warship,None,None,Elite Turtle Ship,200,50,6,5 (+1),6,-,8,6,0.9,0.5,0,100,1,7.8,-,1,-,0,190 (152),180,,50
+20,Caravel,Dock,Castle Age,Warship,None,None,Elite Caravel,130 (143),6 (+2),0 (+1),8 (+2),6 (+2),-,9 (+2),3,1.43,0,0,100,1,6,-,1,-,0,90,43 (34),,36
+21,Monk,Monastery,Castle Age,Monk,None,None,None,30 (95),-,0,0,9,-,11,1,0.7 (0.8),-,0,25,-,-,-,1,-,2.5,,100,,51
+22,Missionary,Monastery,Castle Age,Monk,None,None,None,30 (65),-,0,0,7,-,9,1,1.1 (1.39),-,0,25,-,-,-,1,-,2.5,,100,,51
+23,Long Swordsman,Barracks,Castle Age,Infantry,Long Swordsman,Man-at-Arms,Two-Handed Swordsman,60,9 (+2),1 (+2),1 (+2),-,-,4 (+2),2,0.9 (0.99),0,0,100,-,-,-,1,-,0,,20,60 (45),21 (18.9)
+24,Pikeman,Barracks,Castle Age,Infantry,Pikeman,Spearman,Halberdier,55,4 (+2),0 (+2),0 (+2),-,-,4 (+2),3,1 (1.1),0,0,100,-,-,-,1,-,0,25,,35,22 (19.8)
+25,Eagle Warrior,Barracks,Castle Age,Infantry,Eagle Warrior,Eagle Scout,Elite Eagle Warrior,55,7 (+2),0 (+2),3 (+2),-,-,6 (+2),2,1.15 (1.26),-,0,100,-,-,-,1,-,0,,50,20,35 (31.5)
+26,Crossbowman,Archery Range,Castle Age,Archer,Crossbowman,Archer,Arbalester,35,5 (+2),0 (+2),0 (+2),5 (+2),-,7 (+2),2,0.96,-,0.35,85,1,7,-,1,-,0,25,45,,27 (24.3)
+27,Elite Skirmisher,Archery Range,Castle Age,Archer,Elite Skirmisher,Skirmisher,Imperial Skirmisher,35,3 (+3),0 (+2),4 (+2),5 (+3),1,7 (+3),3,0.96,-,0.5,90,1,7,-,1,-,0,35,,25,22 (19.8)
+28,Cavalry Archer,Archery Range,Castle Age,Cavalry Archer,None,None,Heavy Cavalry Archer,50 (70),6 (+2),0 (+2),0 (+2),4 (+2),-,5 (+2),2 (1.8),1.4 (1.54),-,0.91,50% (100%),1,7,-,1,-,0,40,60,,34
+29,Genitour,Archery Range,Castle Age,Cavalry Archer,None,None,Elite Genitour,50,3 (+3),0 (+2),4 (+2),4 (+3),1,5 (+3),3,1.35,-,0.5,90,1,7,-,1,-,0,35,,40,25 (22.5)
+30,Slinger,Archery Range,Castle Age,Archer,None,None,None,40,4 (+2),0 (+2),0 (+2),5 (+2),1 (0),7 (+2),2 (1.7),0.96,-,0.78,90% (100%),1,5.5,-,1,-,0,,40,30,25
+31,Light Cavalry,Stable,Castle Age,Cavalry,Light Cavalry,Scout Cavalry,Hussar,60 (80),7 (+2),0 (+2),2 (+2),-,-,4 (+4),2,1.5 (1.65),0,0,100,-,-,-,1,-,0,,,80 (68),30
+32,Knight,Stable,Castle Age,Cavalry,None,None,Cavalier,100 (120),10 (+2),2 (+2),2 (+2),-,-,4,1.8,1.35 (1.49),-,0,100,-,-,-,1,-,0,,75 (64),60 (51),30
+33,Camel Rider,Stable,Castle Age,Cavalry,None,None,Heavy Camel Rider,100 (120),6 (+2),0 (+2),0 (+2),-,-,5,2,1.45 (1.59),-,0,100,-,-,-,1,-,0,,60 (51),55 (47),22
+34,Battle Elephant,Stable,Castle Age,Cavalry,None,None,Elite Battle Elephant,250 (270),12 (+2),1 (+4),2 (+4),-,-,4,2,0.85 (0.94),0.4,0,100,-,-,-,1,-,0,,70,110,24
+35,Battering Ram,Siege Workshop,Castle Age,Siege Weapon,None,None,Capped Ram,175,2,-3,180,-,-,3,5,0.5,0,0,100,-,-,4,1,-,0,160,75,,36 (32.4)
+36,Mangonel,Siege Workshop,Castle Age,Siege Weapon,None,None,Onager,50,40,0,6,7,3,9,6,0.6,1,0,100,6,3.5,-,1,-,0,160,135,,46 (41.4)
+37,Scorpion,Siege Workshop,Castle Age,Siege Weapon,None,None,Heavy Scorpion,40,12,0,7,7,2,9,3.6,0.65,-,0.21,100,1,6,-,1,-,0,75,75,,30 (27)
+38,Siege Tower,Siege Workshop,Castle Age,Siege Weapon,None,None,None,220,-,-2,100,-,-,8,0,0.8,-,0,0,-,-,10,1,-,0,200,160,,36 (32.4)
+39,Petard,Castle,Castle Age,Petard,None,None,None,50,25,0,2,-,-,4,5,0.8,0.5,0,100,-,-,-,1,-,0,,20,65,25 (22.5)
+40,Jaguar Warrior,Castle,Castle Age,Infantry,None,None,Elite Jaguar Warrior,65,10 (+2),1 (+2),1 (+2),-,-,3 (+2),2,1 (1.1),-,0,100,-,-,-,1,-,0,,30,60,12 (10.8)
+41,Camel Archer,Castle,Castle Age,Cavalry Archer,None,None,Elite Camel Archer,55 (75),7 (+2),0 (+2),1 (+2),4 (+2),-,5 (+2),2 (1.7),1.4 (1.54),-,0.53,95% (100%),1,7,-,1,-,0,50,60,,25 (20)
+42,Longbowman,Castle,Castle Age,Archer,None,None,Elite Longbowman,35,6 (+2),0 (+2),0 (+2),5 (+4),-,7 (+4),2,0.96,-,0.5,70,1,7,-,1,-,0,35,40,,18
+43,Arambai,Castle,Castle Age,Conquistador,None,None,Elite Arambai,60 (80),12,0 (+1),1 (+1),5,-,7,2,1.3 (1.43),-,0.6,20,1,7,-,1,-,0,75,60,,18
+44,Cataphract,Castle,Castle Age,Cavalry,None,None,Elite Cataphract,110,9 (+2),2 (+2),1 (+2),-,-,4,1.8,1.35 (1.49),0,0,100,-,-,-,1,-,0,,75,70,20
+45,Woad Raider,Castle,Castle Age,Infantry,None,None,Elite Woad Raider,65,10 (+2),0 (+2),1 (+2),-,-,3 (+2),2,1.2 (1.38),-,0,100,-,-,-,1,-,0,,25,65,10
+46,Chu Ko Nu,Castle,Castle Age,Archer,None,None,Elite Chu Ko Nu,45,8 (+2),0 (+2),0 (+2),4 (+2),-,6 (+2),3 (2.4),0.96,-,0.21,85% (100%),3,7,-,1,-,0,40,35,,16
+47,Shotel Warrior,Castle,Castle Age,Infantry,None,None,Elite Shotel Warrior,45,16 (+2),0 (+2),0 (+2),-,-,3 (+2),2,1.2 (1.32),-,0,100,-,-,-,1,-,0,,30,50,8 (4)
+48,Throwing Axeman,Castle,Castle Age,Infantry,None,None,Elite Throwing Axeman,60,7 (+2),0 (+2),0 (+2),3 (+1),-,5 (+3),2,1 (1.1),-,1,100,-,-,-,1,-,0,,25,55,17
+49,Huskarl,Castle,Castle Age,Infantry,None,None,Elite Huskarl,60,10 (+2),0 (+2),6 (+2),-,-,3 (+2),2,1.05 (1.16),-,0,100,-,-,-,1,-,0,,40 (28),80 (56),16 (13.33)
+50,Tarkan,Castle,Castle Age,Cavalry,None,None,Elite Tarkan,100 (120),8 (+2),1 (+2),3 (+2),-,-,5,2.1,1.35 (1.49),-,0,100,-,-,-,1,-,0,,60,60,14 (11.67)
+51,Kamayuk,Castle,Castle Age,Infantry,None,None,Elite Kamayuk,70,7 (+2),1 (+2),0 (+2),1,-,4 (+2),2,1 (1.1),-,0,100,-,-,-,1,-,0,,30,60,10
+52,Ghulam,Castle,Castle Age,Infantry,None,None,Elite Ghulam,55,8 (+2),0 (+2),3 (+2),-,-,6 (+2),2,1.15 (1.26),1,0,100,-,-,-,1,-,0,,45,30,12
+53,Genoese Crossbowman,Castle,Castle Age,Archer,None,None,Elite Genoese Crossbowman,45,6 (+2),1 (+3),0 (+3),4 (+2),-,8 (+2),2 (1.7),0.96,-,0.5,100,1,7,-,1,-,0,45,40,,18
+54,Samurai,Castle,Castle Age,Infantry,None,None,Elite Samurai,70,10 (+2),1 (+2),1 (+2),-,-,4 (+2),1.9 (1.42),1 (1.1),-,0,100,-,-,-,1,-,0,,30,60,9
+55,Ballista Elephant,Castle,Castle Age,Cavalry,None,None,Elite Ballista Elephant,250 (270),10,0 (+2),3 (+2),5,-,7,2.5,0.8 (0.88),0.1,0.39,100,1,6,-,1,-,0,,80,100,25
+56,War Wagon,Castle,Castle Age,Cavalry Archer,None,None,Elite War Wagon,150,9 (+2),0 (+2),3 (+2),4 (+2),-,7 (+2),2.5 (2.25),1.2 (1.32),-,1,100,1,6,-,1,-,0,125 (100),60,,21
+57,Magyar Huszar,Castle,Castle Age,Cavalry,None,None,Elite Magyar Huszar,70 (90),9 (+2),0 (+2),2 (+2),-,-,5,1.8,1.5 (1.65),-,0,100,-,-,-,1,-,0,,10 (0),80,16
+58,Karambit Warrior,Castle,Castle Age,Infantry,None,None,Elite Karambit Warrior,30,7 (+2),0 (+2),1 (+2),-,-,3 (+2),2,1.2 (1.32),-,0,100,-,-,-,0.5,-,0,,15,25,6
+59,Gbeto,Castle,Castle Age,Infantry,None,None,Elite Gbeto,35,10 (+2),0 (+2),0 (+2),5,-,6 (+2),2,1.25 (1.38),-,1,100,-,-,-,1,-,0,,40,50,17
+60,Plumed Archer,Castle,Castle Age,Archer,None,None,Elite Plumed Archer,50,5 (+2),0 (+2),1 (+2),4 (+2),-,6 (+2),1.9 (1.61),1.2,-,0.5,80% (100%),1,7,-,1,-,0,55 (44),55 (44),,16
+61,Mangudai,Castle,Castle Age,Cavalry Archer,None,None,Elite Mangudai,60 (80),6 (+2),0 (+2),0 (+2),4 (+2),-,6 (+2),2.1 (1.43),1.4 (1.54),-,0.5,95% (100%),1,7,-,1,-,0,55,65,,26
+62,War Elephant,Castle,Castle Age,Cavalry,None,None,Elite War Elephant,450 (470),15 (+2),1 (+2),2 (+2),-,-,4,2,0.6 (0.66),0.5,0,100,-,-,-,1,-,0,,85,170,25
+63,Organ Gun,Castle,Castle Age,Siege Weapon,None,None,Elite Organ Gun,60,16,2,4,7,1,9,3.45,0.85,-,0.6,50,5,7.5,-,1,-,0,80,70 (56),,21
+64,Mameluke,Castle,Castle Age,Cavalry,None,None,Elite Mameluke,65 (115),8 (+2),0 (+2),0 (+2),3,-,5,2,1.4 (1.54),-,0.4,100,-,-,-,1,-,0,,85,55,23
+65,Boyar,Castle,Castle Age,Cavalry,None,None,Elite Boyar,100 (120),12 (+2),4 (+2),2 (+2),-,-,5,1.9,1.3 (1.43),-,0,100,-,-,-,1,-,0,,80,50,15
+66,Conquistador,Castle,Castle Age,Conquistador,None,None,Elite Conquistador,55 (75),16,2 (+2),2 (+2),6,-,8,2.9,1.3 (1.43),-,0.4,65,1,7.5,-,1,-,0,,70,60,24
+67,Teutonic Knight,Castle,Castle Age,Infantry,None,None,Elite Teutonic Knight,80,14 (+2),7 (+2),2 (+2),-,-,3 (+2),2,0.8 (0.88),-,0,100,-,-,-,1,-,0,,40,80,12
+68,Janissary,Castle,Castle Age,Hand Cannoneer,None,None,Elite Janissary,35 (43.75),17,1 (+2),0 (+2),8,-,10,3.45,0.96,-,0.4,50,1,7.5,-,1,-,0,,55,60,21 (16.8)
+69,Rattan Archer,Castle,Castle Age,Archer,None,None,Elite Rattan Archer,40,6 (+2),0 (+2),4 (+2),4 (+2),-,6 (+2),2 (1.7),1.1,-,0.68,80% (100%),1,7,-,1,-,0,50,45,,16
+70,Berserk,Castle,Castle Age,Infantry,None,None,Elite Berserk,54 (64.8),12 (+2),1 (+2),1 (+2),-,-,3 (+2),2,1.05 (1.16),-,0,100,-,-,-,1,-,0.33,,25,65,14
+71,Galleon,Dock,Imperial Age,Warship,Galleon,War Galley,None,165,8 (+4),0,8 (+1),7 (+3),-,9 (+3),3,1.43 (1.81),-,0,100,1,6,-,1,-,0,90,30,,36
+72,Fast Fire Ship,Dock,Imperial Age,Warship,Fast Fire Ship,Fire Ship,None,140,3,0,8 (+1),2.49,-,6,0.25,1.43 (1.64),-,0,0,1,3,-,1,-,0,75 (60),45,,36 (21.06)
+73,Heavy Demolition Ship,Dock,Imperial Age,Warship,Heavy Demolition Ship,Demolition Ship,None,70,140,0,5 (+1),-,-,6,5,1.6 (2.02),3.5,0,100,-,-,-,1,-,0,75,50,,31
+74,Cannon Galleon,Dock,Imperial Age,Warship,Chemistry,None,Elite Cannon Galleon,120,35,0,6 (+1),13,3,15,10,1.1 (1.39),-,0,50,1,3,-,1,-,0,200,150,,46
+75,Elite Cannon Galleon,Dock,Imperial Age,Warship,Elite Cannon Galleon,Cannon Galleon,None,150,45,0,8 (+1),15,3,17,10,1.1 (1.39),-,0,50,1,3,-,1,-,0,200,150,,46
+76,Elite Longboat,Dock,Imperial Age,Warship,Elite Longboat,Longboat,None,160,8 (+4),0,8 (+1),7 (+3),-,9 (+3),3,1.54 (1.77),-,0,100,4,6,-,1,-,0,100 (80),50 (40),,25
+77,Elite Turtle Ship,Dock,Imperial Age,Warship,Elite Turtle Ship,Turtle Ship,None,300,50,8,6 (+1),6,-,8,6,1.04 (1.2),0.5,0,100,1,7.8,-,1,-,0,190 (122),180,,50 (32.5)
+78,Elite Caravel,Dock,Imperial Age,Warship,Elite Caravel,Caravel,None,150 (165),8 (+4),0 (+1),8 (+2),7 (+3),-,9 (+3),3,1.43 (1.64),0,0,100,1,6,-,1,-,0,90,43 (34),,36
+79,Two-Handed Swordsman,Barracks,Imperial Age,Infantry,Two-Handed Swordsman,Long Swordsman,Champion,60,12 (+8),1 (+3),1 (+4),-,-,5 (+2),2,0.9 (0.99),0,0,100,-,-,-,1,-,0,,20,60 (45),21 (14.21)
+80,Champion,Barracks,Imperial Age,Infantry,Champion,Two-Handed Swordsman,None,70,13 (+8),1 (+3),1 (+4),-,-,5 (+2),2,0.9 (0.99),0,0,100,-,-,-,1,-,0,,20,60 (45),21 (14.21)
+81,Halberdier,Barracks,Imperial Age,Infantry,Halberdier,Pikeman,None,60,6 (+4),0 (+3),0 (+4),-,-,4 (+2),3,1 (1.1),0,0,100,-,-,-,1,-,0,25,,35,22 (16.54)
+82,Elite Eagle Warrior,Barracks,Imperial Age,Infantry,Elite Eagle Warrior,Eagle Warrior,None,60,9 (+8),0 (+3),4 (+4),-,-,6 (+2),2,1.3 (1.43),-,0,100,-,-,-,1,-,0,,50,20,20 (13.53)
+83,Condottiero,Barracks,Imperial Age,Infantry,None,None,None,80,10 (+8),1 (+3),0 (+4),-,-,6 (+2),1.9,1.2 (1.32),0,0,100,-,-,-,1,-,0,,35,50,18 (12.18)
+84,Arbalester,Archery Range,Imperial Age,Archer,Arbalester,Crossbowman,None,40,6 (+4),0 (+2),0 (+2),5 (+3),-,7 (+3),2,0.96,-,0.35,90,1,7,-,1,-,0,25,45,,27 (18.27)
+85,Imperial Skirmisher,Archery Range,Imperial Age,Archer,Imperial Skirmisher,Elite Skirmisher,None,35,4 (+5),0 (+2),5 (+2),5 (+4),1,7 (+4),3,0.96,-,0.5,90,1,7,-,1,-,0,35,,25,22 (14.89)
+86,Heavy Cavalry Archer,Archery Range,Imperial Age,Cavalry Archer,Heavy Cavalry Archer,Cavalry Archer,None,60 (80),7 (+4),1 (+3),0 (+4),4 (+3),-,6 (+3),2 (1.8),1.4 (1.54),-,0.9,50% (100%),1,7,-,1,-,0,40,60,,27 (20.3)
+87,Hand Cannoneer,Archery Range,Imperial Age,Hand Cannoneer,Chemistry,None,None,40,17,1 (+3),0 (+4),7,-,9,3.45,0.96,-,0.35,75,1,7.5,-,1,-,0,,50,45,34 (25.56)
+88,Elite Genitour,Archery Range,Imperial Age,Cavalry Archer,Elite Genitour,Genitour,None,55,4 (+5),0 (+2),4 (+2),4 (+4),1,6 (+4),3,1.35,-,0.5,90,1,7,-,1,-,0,35,,40,23 (15.56)
+89,Hussar,Stable,Imperial Age,Cavalry,Hussar,Light Cavalry,None,75 (95),7 (+4),0 (+3),2 (+4),-,-,4 (+6),1.9,1.5 (1.65),0,0,100,-,-,-,1,-,0,,,80 (64),30 (22.56)
+90,Cavalier,Stable,Imperial Age,Cavalry,Cavalier,Knight,Paladin,120 (140),12 (+4),2 (+3),2 (+4),-,-,4,1.8,1.35 (1.49),-,0,100,-,-,-,1,-,0,,75 (60),60 (48),30 (22.56)
+91,Paladin,Stable,Imperial Age,Cavalry,Paladin,Cavalier,None,160,14 (+4),2 (+3),3 (+4),-,-,5,1.9,1.35 (1.49),-,0,100,-,-,-,1,-,0,,75,60,30 (22.56)
+92,Heavy Camel Rider,Stable,Imperial Age,Cavalry,Heavy Camel Rider,Camel Rider,Imperial Camel Rider,120 (140),7 (+4),0 (+3),0 (+4),-,-,5,2,1.45 (1.59),-,0,100,-,-,-,1,-,0 (0.25),,60 (48),55 (44),22 (16.54)
+93,Imperial Camel Rider,Stable,Imperial Age,Cavalry,Imperial Camel Rider,Heavy Camel Rider,None,140 (160),8 (+4),0 (+3),0 (+4),-,-,5,2 (1.67),1.45 (1.59),-,0,100,-,-,-,1,-,0,,60,55,20 (15.04)
+94,Elite Battle Elephant,Stable,Imperial Age,Cavalry,Elite Battle Elephant,Battle Elephant,None,300 (320),14 (+4),1 (+5),3 (+6),-,-,5,2,0.85 (0.94),0.4,0,100,-,-,-,1,-,0,,70,110,24 (18.05)
+95,Capped Ram,Siege Workshop,Imperial Age,Siege Weapon,Capped Ram,Battering Ram,Siege Ram,200,3,-3,190,-,-,3,5,0.5,1.5,0,100,-,-,5,1,-,0,160,75,,36 (32.4)
+96,Siege Ram,Siege Workshop,Imperial Age,Siege Weapon,Siege Ram,Capped Ram,None,270,4,-3,195,-,-,3,5,0.6,2,0,100,-,-,6,1,-,0,160,75,,36 (32.4)
+97,Onager,Siege Workshop,Imperial Age,Siege Weapon,Onager,Mangonel,Siege Onager,60,50 (+1),0,7,8 (+1),3,10 (+1),6,0.6,1.25,0,100,8,3.5,-,1,-,0,160,135,,46 (41.4)
+98,Siege Onager,Siege Workshop,Imperial Age,Siege Weapon,Siege Onager,Onager,None,70,75 (+1),0,8,8 (+1),3,10 (+1),6,0.6,1.5,0,100,10,3.5,-,1,-,0,160,135,,46 (41.4)
+99,Heavy Scorpion,Siege Workshop,Imperial Age,Siege Weapon,Heavy Scorpion,Scorpion,None,50,16 (+1),0,8,7 (+1),2,9 (+1),3.6,0.65,-,0.21,100,1,6,-,1,-,0,75,75,,30
+100,Bombard Cannon,Siege Workshop,Imperial Age,Siege Weapon,Chemistry,None,Houfnice,80,40,2,5,12 (+1),5,14 (+1),6.5,0.7,0.5,0.21,100,1,4,-,1,-,0,225,225,,56
+101,Trebuchet (Packed),Castle,Imperial Age,Siege Weapon,None,None,None,150,0 (+1),2,8,16 (+1),4,19 (+1),10,0.8,0,0,15,-,-,-,1,4.5,0,200,200,,50 (45)
+102,Trebuchet,Castle,Imperial Age,Siege Weapon,None,None,None,150,200 (+1),1,150,16 (+1),4,19 (+1),10,0,0,0.87,15,1,3.75,-,1,4.5,0,200,200,,50 (45)
+103,Elite Jaguar Warrior,Castle,Imperial Age,Infantry,Elite Jaguar Warrior,Jaguar Warrior,None,75,12 (+8),2 (+3),1 (+4),-,-,5 (+2),2,1 (1.1),-,0,100,-,-,-,1,-,0,,30,60,12 (8.12)
+104,Elite Camel Archer,Castle,Imperial Age,Cavalry Archer,Elite Camel Archer,Camel Archer,None,60 (80),8 (+4),1 (+3),1 (+4),4 (+3),-,5 (+3),2 (1.7),1.4 (1.54),-,0.53,95% (100%),1,7,-,1,-,0 (0.25),50,60,,25 (15.04)
+105,Elite Longbowman,Castle,Imperial Age,Archer,Elite Longbowman,Longbowman,None,40,7 (+4),1 (+3),0 (+4),6 (+6),-,8 (+6),2,0.96,-,0.5,80,1,7,-,1,-,0,35,40,,18 (13.53)
+106,Elite Arambai,Castle,Imperial Age,Conquistador,Elite Arambai,Arambai,None,65 (85),15,0 (+2),2 (+3),5,-,7,2,1.3 (1.43),-,0.6,30,1,7,-,1,-,0,75,60,,18 (13.53)
+107,Elite Cataphract,Castle,Imperial Age,Cavalry,Elite Cataphract,Cataphract,None,150,12 (+2),2 (+3),1 (+4),-,-,5,1.7,1.35 (1.49),0 (0.5),0,100,-,-,-,1,-,0,,75,70,20 (15.04)
+108,Elite Woad Raider,Castle,Imperial Age,Infantry,Elite Woad Raider,Woad Raider,None,80,13 (+4),0 (+3),1 (+4),-,-,5 (+2),2,1.2 (1.38),-,0,100,-,-,-,1,-,0,,25,65,10 (7.52)
+109,Elite Chu Ko Nu,Castle,Imperial Age,Archer,Elite Chu Ko Nu,Chu Ko Nu,None,50,8 (+6),0 (+3),0 (+4),4 (+3),-,6 (+3),3 (2.4),0.96,-,0.21,85% (100%),5,7,-,1,-,0,40,35,,13 (9.77)
+110,Elite Shotel Warrior,Castle,Imperial Age,Infantry,Elite Shotel Warrior,Shotel Warrior,None,50,18 (+4),0 (+3),1 (+4),-,-,3 (+2),2,1.2 (1.32),-,0,100,-,-,-,1,-,0,,30,50,8 (3.01)
+111,Elite Throwing Axeman,Castle,Imperial Age,Infantry,Elite Throwing Axeman,Throwing Axeman,None,70,8 (+4),1 (+3),0 (+4),4 (+1),-,6 (+3),2,1 (1.1),-,0.8,100,-,-,-,1,-,0,,25,55,17 (12.78)
+112,Elite Huskarl,Castle,Imperial Age,Infantry,Elite Huskarl,Huskarl,None,70,12 (+4),0 (+2),8 (+2),-,-,5 (+2),2,1.05 (1.16),-,0,100,-,-,-,1,-,0,,40 (26),80 (52),16 (5.01)
+113,Elite Tarkan,Castle,Imperial Age,Cavalry,Elite Tarkan,Tarkan,None,150 (170),11 (+4),1 (+3),4 (+4),-,-,7,2.1,1.35 (1.49),-,0,100,-,-,-,1,-,0,,60,60,14 (8.77)
+114,Elite Kamayuk,Castle,Imperial Age,Infantry,Elite Kamayuk,Kamayuk,None,80,8 (+4),1 (+4),0 (+6),1,-,5 (+2),2,1 (1.1),-,0,100,-,-,-,1,-,0,,30,60,10 (7.52)
+115,Elite Ghulam,Castle,Imperial Age,Infantry,Elite Ghulam,Ghulam,None,65,10 (+4),0 (+2),6 (+2),-,-,6 (+2),2,1.2 (1.32),1,0,100,-,-,-,1,-,0,,45,30,12 (9.02)
+116,Elite Genoese Crossbowman,Castle,Imperial Age,Archer,Elite Genoese Crossbowman,Genoese Crossbowman,None,50,6 (+4),1 (+4),0 (+5),4 (+3),-,8 (+3),2 (1.7),0.96,-,0.5,100,1,7,-,1,-,0,45,40,,14 (10.53)
+117,Elite Samurai,Castle,Imperial Age,Infantry,Elite Samurai,Samurai,None,80,12 (+4),1 (+3),1 (+4),-,-,5 (+2),1.9 (1.42),1 (1.1),-,0,100,-,-,-,1,-,0,,30,60,9 (6.77)
+118,Elite Ballista Elephant,Castle,Imperial Age,Cavalry,Elite Ballista Elephant,Ballista Elephant,None,290 (310),11 (+1),0 (+3),3 (+4),5 (+1),-,7 (+1),2.5,0.8 (0.88),0.1,0.39,100,1 (2),6,-,1,-,0,,80,100,25 (18.8)
+119,Elite War Wagon,Castle,Imperial Age,Cavalry Archer,Elite War Wagon,War Wagon,None,200,9 (+4),0 (+3),4 (+4),5 (+3),-,8 (+3),2.5 (2.25),1.2 (1.32),-,1,100,1,6,-,1,-,0,125 (100),60,,21 (15.79)
+120,Elite Magyar Huszar,Castle,Imperial Age,Cavalry,Elite Magyar Huszar,Magyar Huszar,None,85 (105),10 (+4),0 (+3),2 (+4),-,-,6,1.8,1.5 (1.65),-,0,100,-,-,-,1,-,0,,10 (0),80,16 (12.03)
+121,Elite Karambit Warrior,Castle,Imperial Age,Infantry,Elite Karambit Warrior,Karambit Warrior,None,40,8 (+4),0 (+3),1 (+4),-,-,3 (+2),2,1.2 (1.32),-,0,100,-,-,-,0.5,-,0,,15,25,6 (4.51)
+122,Elite Gbeto,Castle,Imperial Age,Infantry,Elite Gbeto,Gbeto,None,45,13 (+2),0 (+3),0 (+4),6,-,7 (+2),2,1.25 (1.38),-,1,100,-,-,-,1,-,0,,40,50,17 (12.78)
+123,Elite Plumed Archer,Castle,Imperial Age,Archer,Elite Plumed Archer,Plumed Archer,None,65,5 (+4),0 (+3),2 (+4),5 (+3),-,6 (+3),1.9 (1.61),1.2,-,0.5,90% (100%),1,7,-,1,-,0,55 (39),55 (39),,16 (12.03)
+124,Elite Mangudai,Castle,Imperial Age,Cavalry Archer,Elite Mangudai,Mangudai,None,60 (80),8 (+4),1 (+3),0 (+4),4 (+3),-,6 (+3),2.1 (1.43),1.4 (1.54),-,0.5,95% (100%),1,7,-,1,-,0,55,65,,26 (19.55)
+125,Elite War Elephant,Castle,Imperial Age,Cavalry,Elite War Elephant,War Elephant,None,600 (620),20 (+4),1 (+3),3 (+4),-,-,5,2,0.6 (0.86),0.5,0,100,-,-,-,1,-,0,,85,170,25 (18.8)
+126,Elite Organ Gun,Castle,Imperial Age,Siege Weapon,Elite Organ Gun,Organ Gun,None,70,20,2,6,7 (+1),1,9 (+1),3.45,0.85,-,0.6,50,5,7.5 (8),-,1,-,0,80,70 (56),,21 (15.79)
+127,Elite Mameluke,Castle,Imperial Age,Cavalry,Elite Mameluke,Mameluke,None,80 (130),10 (+4),1 (+3),0 (+4),3,-,5,2,1.4 (1.54),-,0.2,100,-,-,-,1,-,0,,85,55,23 (17.29)
+128,Elite Boyar,Castle,Imperial Age,Cavalry,Elite Boyar,Boyar,None,130 (150),14 (+4),8 (+3),3 (+4),-,-,5,1.9,1.3 (1.43),-,0,100,-,-,-,1,-,0,,80,50,15 (11.28)
+129,Elite Conquistador,Castle,Imperial Age,Conquistador,Elite Conquistador,Conquistador,None,70 (90),18,2 (+3),2 (+4),6,-,9,2.9,1.3 (1.43),-,0.4,70,1,7.5,-,1,-,0,,70,60,24 (18.05)
+130,Elite Teutonic Knight,Castle,Imperial Age,Infantry,Elite Teutonic Knight,Teutonic Knight,None,100,17 (+4),10 (+3),2 (+4),-,-,5 (+5),2,0.8 (0.88),-,0,100,-,-,-,1,-,0,,40,80,12 (9.02)
+131,Elite Janissary,Castle,Imperial Age,Hand Cannoneer,Elite Janissary,Janissary,None,40 (50),22,2 (+3),0 (+4),8,-,10,3.45,0.96,-,0,65,1,7.5,-,1,-,0,,55,60,21 (12.63)
+132,Elite Rattan Archer,Castle,Imperial Age,Archer,Elite Rattan Archer,Rattan Archer,None,45,7 (+4),0 (+3),6 (+4),5 (+3),-,6 (+3),2 (1.7),1.1,-,0.68,90% (100%),1,7,-,1,-,0,50,45,,16 (12.03)
+133,Elite Berserk,Castle,Imperial Age,Infantry,Elite Berserk,Berserk,None,62 (74.4),14 (+4),2 (+3),1 (+4),-,-,5 (+2),2,1.05 (1.16),-,0,100,-,-,-,1,-,0.33 (0.66),,25,65,12 (9.02)
+134,Steppe Lancer,Stable,Castle Age,Cavalry,None,None,Elite Steppe Lancer,60 (80),9 (+2),0 (+2),1 (+2),1,-,5,2,1.45 (1.59),-,0,100,-,-,-,1,-,0,,40,70,24 (12)
+135,Konnik,Castle,Castle Age,Cavalry,None,None,Elite Konnik,100 (120),12 (+2),2 (+2),1 (+2),-,-,5,2.4 (1.8),1.35 (1.49),-,0,100,-,-,-,1,-,0,,70,60,19
+136,Konnik (Dismounted),Castle,Castle Age,Infantry,None,None,Elite Konnik (Dismounted),45,12 (+2),0 (+2),0 (+2),-,-,3 (+2),2.4,0.9 (0.99),-,0,100,-,-,-,1,-,0,,70,60,19
+137,Kipchak,Castle,Castle Age,Cavalry Archer,None,None,Elite Kipchak,40 (60),4 (+2),0 (+2),0 (+2),4 (+2),-,6 (+2),2.2 (1.87),1.4 (1.54),-,0.5,90% (100%),3,7,-,1,-,0,60,35,,20
+138,Leitis,Castle,Castle Age,Cavalry,None,None,Elite Leitis,100 (120),13 (+6),1 (+2),1 (+2),-,-,5,1.9,1.4 (1.54),-,0,100,-,-,-,1,-,0,,50,70,20
+139,Keshik,Castle,Castle Age,Cavalry,None,None,Elite Keshik,110 (130),9 (+2),1 (+2),2 (+2),-,-,5,1.9,1.4 (1.54),-,0,100,-,-,-,1,-,0,,40,60,16
+140,Elite Steppe Lancer,Stable,Imperial Age,Cavalry,Elite Steppe Lancer,Steppe Lancer,None,80 (100),11 (+4),0 (+3),1 (+4),1,-,5,2,1.45 (1.68),-,0,100,-,-,-,1,-,0,,40,70,20 (7.52)
+141,Elite Konnik,Castle,Imperial Age,Cavalry,Elite Konnik,Konnik,None,120 (140),14 (+4),2 (+3),2 (+4),-,-,5,2.4 (1.8),1.35 (1.49),-,0,100,-,-,-,1,-,0,,70,60,19 (14.29)
+142,Elite Konnik (Dismounted),Castle,Imperial Age,Infantry,Elite Konnik,Konnik (Dismounted),None,50,13 (+4),0 (+3),1 (+4),-,-,3 (+2),2.4,0.9 (0.99),-,0,100,-,-,-,1,-,0,,70,60,19 (14.29)
+143,Elite Kipchak,Castle,Imperial Age,Cavalry Archer,Elite Kipchak,Kipchak,None,45,5 (+4),0 (+2),0 (+2),4 (+3),-,6 (+3),2.2,1.4,-,0.5,90,4,7,-,1,-,0,60,35,,20 (13.53)
+144,Elite Leitis,Castle,Imperial Age,Cavalry,Elite Leitis,Leitis,None,130 (150),16 (+6),2 (+3),1 (+4),-,-,5,1.9,1.4 (1.54),-,0,100,-,-,-,1,-,0,,50,70,18 (13.53)
+145,Elite Keshik,Castle,Imperial Age,Cavalry,Elite Keshik,Keshik,None,140 (160),11 (+4),1 (+3),3 (+4),-,-,5,1.9,1.4 (1.54),-,0,100,-,-,-,1,-,0,,40,60,14 (10.53)
+146,Xolotl Warrior,Stable,Castle Age,Cavalry,None,None,None,100,10 (+2),2,2,-,-,4,1.8,1.35,-,0,100,-,-,-,1,-,0,,75,60,30 (27)
+147,Flaming Camel,Castle,Imperial Age,Petard,Timurid Siegecraft,None,None,55 (75),20,0,0,-,-,4 (+2),5,1.3 (1.43),2,0,100,-,-,-,1,-,0,,30,75,20
+148,Coustillier,Castle,Castle Age,Cavalry,None,None,Elite Coustillier,115,8 (+2),2 (+2),2 (+2),-,-,5,1.9,1.35 (1.49),-,0,100,-,-,-,1,-,0,,55,55,15
+149,Serjeant,Donjon,Feudal Age,Infantry,None,None,Elite Serjeant,45,5 (+1),2 (+1),2 (+1),-,-,3 (+2),2,0.9,-,0,100,-,-,-,1,-,0,,35,60,16
+150,Elite Coustillier,Castle,Imperial Age,Cavalry,Elite Coustillier,Coustillier,None,145,11 (+4),2 (+3),2 (+4),-,-,5,1.9,1.35 (1.49),-,0,100,-,-,-,1,-,0,,55,55,14 (10.53)
+151,Elite Serjeant,Donjon,Imperial Age,Infantry,Elite Serjeant,Serjeant,None,85,11 (+4),4 (+3),4 (+4),-,-,5 (+2),2,0.9 (0.99),-,0,100,-,-,-,1,-,0,,35,60,12 (9.02)
+152,Flemish Militia,Town Center,Imperial Age,Infantry,Flemish Revolution,Villager,None,75,12 (+4),1 (+3),1 (+4),-,-,5 (+2),2,0.9 (0.99),-,0,100,-,-,-,1,-,0,,25,60,14
+153,Winged Hussar,Stable,Imperial Age,Cavalry,Winged Hussar,Light Cavalry,None,80 (100),9 (+2),1 (+3),2 (+4),-,-,4 (+6),1.9,1.5 (1.65),0,0,100,-,-,-,1,-,0,,,80,30 (22.56)
+154,Hussite Wagon,Castle,Castle Age,Siege Weapon,None,None,Elite Hussite Wagon,200,17,0,7,6,0,8,3.45,0.8 (0.92),-,0.93,85,4,7,-,1,-,0,110,70,,21
+155,Obuch,Castle,Castle Age,Infantry,None,None,Elite Obuch,80,8 (+2),2 (+2),2 (+2),-,-,3 (+2),2,0.9 (0.99),-,0,100,-,-,-,1,-,0,,20,55,12
+156,Elite Hussite Wagon,Castle,Imperial Age,Siege Weapon,Elite Hussite Wagon,Hussite Wagon,None,250,20,1,10,6 (+1),0,8 (+1),3.45,0.8 (0.92),-,0.93,90,4,7,-,1,-,0,110,70,,21 (15.79)
+157,Elite Obuch,Castle,Imperial Age,Infantry,Elite Obuch,Obuch,None,95,10 (+4),2 (+3),2 (+4),-,-,3 (+2),2,0.9 (0.99),-,0,100,-,-,-,1,-,0,,20,55,12 (9.02)
+158,Houfnice,Siege Workshop,Imperial Age,Siege Weapon,Houfnice,Bombard Cannon,None,90,50,2,6,12 (+1),5,14 (+1),6.5,0.7 (0.8),0.8,0.21,100,1,4,-,1,-,0,225,225,,56
+159,Camel Scout,Stable,Feudal Age,Cavalry,None,None,Camel Rider,70 (90),2 (+3),0 (+1),0 (+1),-,-,4 (+1),2,1.2 (1.45),-,0,100,-,-,-,1,-,0,,60,55,48 (38.4)
+160,Elephant Archer,Archery Range,Castle Age,Cavalry Archer,None,None,Elite Elephant Archer,230 (250),6 (+2),0 (+2),2 (+2),4 (+2),-,7 (+2),2 (1.67),0.9 (0.99),-,0.39,70,1,7,-,1,-,0,,70,80,34
+161,Shrivamsha Rider,Stable,Castle Age,Cavalry,None,None,Elite Shrivamsha Rider,55 (75),8 (+2),0 (+2),1 (+2),-,-,5,1.75,1.6 (1.76),-,0,100,-,-,-,1,-,0,,20,70 (53),20
+162,Armored Elephant,Siege Workshop,Castle Age,Cavalry,None,None,Siege Elephant,200 (220),4 (+2),-2 (+2),140 (+2),-,-,4,3,0.6 (0.66),-,0,100,-,-,-,1,-,0,,95,130,36
+163,Ratha (Ranged),Castle,Castle Age,Cavalry Archer,None,None,Elite Ratha (Ranged),105 (125),5 (+2),2 (+2),1 (+2),4 (+2),-,6 (+2),2 (1.67),1.3 (1.43),-,0.62,80,1,7,-,1,-,0,60,60,,18
+164,Ratha (Melee),Castle,Castle Age,Cavalry,None,None,Elite Ratha (Melee),105 (125),10 (+2),2 (+2),1 (+2),-,-,6,2 (1.67),1.3 (1.43),-,0,100,-,-,-,1,-,0,60,60,,18
+165,Urumi Swordsman,Castle,Castle Age,Infantry,None,None,Elite Urumi Swordsman,55,8 (+2),1 (+2),0 (+2),-,-,6,2,1.05 (1.16),0.75,0,100,-,-,-,1,-,0,,20,65,9
+166,Chakram Thrower,Castle,Castle Age,Infantry,None,None,Elite Chakram Thrower,40,3 (+2),1 (+2),0 (+2),5,-,7,2,1.15,0,0.8,100,1,6,-,1,-,0,,30,65 (49),15
+167,Thirisadai,Dock,Imperial Age,Warship,None,None,None,250,9 (+4),2,10 (+1),6 (+3),-,8 (+3),3.45,1.3 (1.49),-,0,100,5,7,-,1,-,0,180 (144),60,,40 (26)
+168,Elite Elephant Archer,Archery Range,Imperial Age,Cavalry Archer,Elite Elephant Archer,Elephant Archer,None,280 (300),7 (+4),0 (+4),2 (+6),4 (+3),-,7 (+3),2 (1.67),0.9 (0.99),-,0.39,85,1,7,-,1,-,0,,70,80,34 (25.56)
+169,Elite Shrivamsha Rider,Stable,Imperial Age,Cavalry,Elite Shrivamsha Rider,Shrivamsha Rider,None,70 (90),11 (+2),0 (+3),1 (+4),-,-,6,1.75,1.6 (1.76),-,0,100,-,-,-,1,-,0,,20,70 (53),20 (15.04)
+170,Siege Elephant,Siege Workshop,Imperial Age,Cavalry,Siege Elephant,Armored Elephant,None,250 (270),4 (+4),-2 (+3),150 (+4),-,-,4,3,0.6 (0.66),1.5,0,100,-,-,-,1,-,0,,95,130,36
+171,Elite Ratha (Ranged),Castle,Imperial Age,Cavalry Archer,Elite Ratha,Ratha (Ranged),None,115 (135),6 (+4),2 (+4),1 (+6),4 (+3),-,6 (+3),2 (1.67),1.3 (1.43),-,0.62,90,1,7,-,1,-,0,60,60,,18 (13.53)
+172,Elite Ratha (Melee),Castle,Imperial Age,Cavalry,Elite Ratha,Ratha (Melee),None,115 (135),12 (+4),2 (+4),1 (+6),-,-,6,2 (1.67),1.3 (1.43),-,0,100,-,-,-,1,-,0,60,60,,18 (13.53)
+173,Elite Urumi Swordsman,Castle,Imperial Age,Infantry,Elite Urumi Swordsman,Urumi Swordsman,None,65,10 (+4),1 (+3),0 (+4),-,-,6,2,1.05 (1.16),0.75,0,100,-,-,-,1,-,0,,20,65,9 (6.77)
+174,Elite Chakram Thrower,Castle,Imperial Age,Infantry,Elite Chakram Thrower,Chakram Thrower,None,50,4 (+2),1 (+3),0 (+4),6,-,8,2,1.15,0,0.8,100,1,6,-,1,-,0,,30,65 (49),15 (11.28)
