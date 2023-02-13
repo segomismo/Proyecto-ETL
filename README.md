@@ -22,9 +22,9 @@ Los métodos utilizados han sido dos. El primero ha sido el acceder a una API de
 <details>
 <summary>Fuentes</summary>
 <br>
-API: 
-Web1 screapeada: 
-Web2 screapeada:
+API: https://aoe2.net/api/strings?game=aoe2de&language=en
+Web1 screapeada: https://www.aoe2database.com/unit/175/1/en
+Web2 screapeada: https://ageofempires.fandom.com/wiki/Units_(Age_of_Empires_II)
 <br></details>
 <details>
 <summary>TEXTO</summary>
