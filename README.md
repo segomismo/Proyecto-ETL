@@ -2,7 +2,7 @@
 ![](/imagenes/ageofempiresimagen.jpeg)
 ## Índice
 1.[Contexto](#contexto)\
-2.[Procedimiento](#procedimiento)\
+2.[Procedimiento](#Procedimiento)\
 3.[Coclusiones](#Conclusiones)
 <a name="Contexto"/>
 ## Contexto
