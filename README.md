@@ -14,6 +14,7 @@ En este proyecto, hemos intentado recopilar la informacion de las civilizaciones
 
 <a name="Procedimiento"/>
 ## Procedimiento
+
 <details>
 <summary>Métodos</summary>
 <br>
@@ -37,6 +38,7 @@ Durante este proyecto he tenido diferentes problemas que me han impedido complet
 <br></details>
 <a name="Conclusiones"/>
 ## Conclusiones
+
 Después de un cierto nivel de análisis, podemos concluir que la unidad más rápida del juego en tierra es Shrivamsha Rider, que no es especialmente cara en cuanto a oro y es una unidad de caballería
 La unidad mas cara del juego es el cañón, que tiene un rango altísimo de disparo. Por lo que posiblemente el Shrivamsha Rider sería una muy buena contraunidad dado su velocidad
 Otra cosa interesante es que la unidad de agua mas rápida del juego es el barco de demolición. Por lo que si alguna vez te persigue alguno de ellos, lo más importante sería intentar acabar con él. La huida no sería posible, y habría que jugar con el rango de disparo para poder destruirlo antes de que llegue a tu unidad.
